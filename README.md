@@ -99,8 +99,8 @@ Sistemin genel durumunu öğrenmek için kullanılan komut `vmstat` komutudur.
 
 ![vmstat-img1](https://github.com/saricayemre/linuxkomutsatiridersleri-ders2/blob/main/resimler/vmstat-img.png?raw=true)
 
-## Sonuç
+## Ders Sonu
 
 Sonuç olarak bu komutlarla sistemimiz hakkında bilgi nasıl alınır onu öğrenmiş olduk. 
 
-[< Önceki Sayfa](https://saricayemre.github.io/linuxkomutsatiridersleri-ders1/) | [Sonraki Sayfa >](https://saricayemre.github.io/linuxkomutsatiridersleri-ders3/)
+[< Önceki Ders](https://saricayemre.github.io/linuxkomutsatiridersleri-ders1/) | [Sonraki Ders >](https://saricayemre.github.io/linuxkomutsatiridersleri-ders3/)
