@@ -1,6 +1,6 @@
 ## Ders 2 | Bilgi Alma Komutları
 
-[<Anasayfa](https://saricayemre.github.io/linuxkomutsatiridersleri/)
+[< Anasayfa](https://saricayemre.github.io/linuxkomutsatiridersleri/)
 
 # Giriş
 
